@@ -12,7 +12,7 @@ I have added a modified tradebook(removed certain records and orderID column), i
 - Vakrangee is one such stock which had a split in last year and was a part of my portfolio.
 
 ## Further Improvements
-Develop a GUI as an inteface, no knowledge of python code requried,might shift it to a webapp
-There is better file handling that can be done, did not add it because initially I planned it to use it for my own use, but now I feel, it can help a larger community.
+- Develop a GUI as an inteface, no knowledge of python code requried,might shift it to a webapp
+- Better file handling can be done, did not add it because initially I planned it to use it for my own use, but now I feel, it can help a larger community.
 
 Please feel free to modiy the code and use it to your use. 
